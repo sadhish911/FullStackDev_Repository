@@ -119,7 +119,7 @@ public class StringDemo1 {
 	{
 		String s="Programming";
 		System.out.println("substring 1 :"+s.substring(3));
-		System.out.println("substring 2 :"+s.substring(3,7));
+		System.out.println("substring 2 :"+s.substring(10,11));
 		System.out.println("--------------");
 	}
 	
